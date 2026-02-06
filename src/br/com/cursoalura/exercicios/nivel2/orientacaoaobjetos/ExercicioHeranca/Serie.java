@@ -1,6 +1,10 @@
 package br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.ExercicioHeranca;
 
+<<<<<<< HEAD
 public class Serie extends Titulos{
+=======
+public class Serie extends Titulo{
+>>>>>>> 044dfbf55165f6e96868ab5b591e422b08dc789c
     private int temporadas;
     private int episodioPorTemporada;
     private boolean ativa;
