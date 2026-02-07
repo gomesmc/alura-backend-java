@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c80be4ba-3752-4c3c-87ce-74262bbee276" name="Changes" comment="" />
+    <list default="true" id="c80be4ba-3752-4c3c-87ce-74262bbee276" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/CalculadoraSalaRetangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/Calculavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/CalculoGeometrico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/ConversaoFinanceira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/ConversorMoeda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/ConversorTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/ConversorTemperaturaPadrao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/LivroEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/ProdutoFisico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/Servico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/Tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/TabuadaMultiplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/Vendavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/enunciados.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/ExercicioHeranca/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/ExercicioHeranca/Serie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/ExercicioHeranca/Titulos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/ExercicioHeranca/calculos/CalculoDeTempo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/ExercicioHeranca/enunciado.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +36,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -20,6 +44,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gomesmc&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gomesmc/alura-backend-java.git&quot;,
+    &quot;accountId&quot;: &quot;0bfa0658-18e5-4aba-853e-1ac2939d4cef&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -32,8 +68,11 @@
   "keyToString": {
     "Application.Aluno.executor": "Run",
     "Application.Calculadora.executor": "Run",
+    "Application.CalculadoraSalaRetangular.executor": "Run",
     "Application.Carro.executor": "Run",
     "Application.ContaBancaria.executor": "Run",
+    "Application.ConversorMoeda.executor": "Run",
+    "Application.ConversorTemperaturaPadrao.executor": "Run",
     "Application.ConverterTemperatura.executor": "Run",
     "Application.Estudos.executor": "Run",
     "Application.Ex1.executor": "Run",
@@ -45,20 +84,24 @@
     "Application.IdadePessoa.executor": "Run",
     "Application.JogoAdivinhacao.executor": "Run",
     "Application.Livro.executor": "Run",
+    "Application.LivroEx2.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Musica.executor": "Run",
     "Application.Perfil.executor": "Run",
     "Application.Pessoa.executor": "Run",
     "Application.PrimeiraClasse.executor": "Run",
     "Application.Produto.executor": "Run",
+    "Application.ProdutoFisico.executor": "Run",
     "Application.Soma.executor": "Run",
     "Application.Subtracao.executor": "Run",
+    "Application.TabuadaMultiplicacao.executor": "Run",
     "Application.br.com.cursoalura.exercicios.nive2.orientacaoaobjetos.pagina12.Aluno.executor": "Run",
+    "Application.br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08.Livro.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -66,13 +109,13 @@
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aluno">
-    <configuration name="Aluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.orientacaoaobjetos.pagina12.Aluno" />
-      <module name="ExerciciosAlura" />
+  <component name="RunManager" selected="Application.Produto">
+    <configuration name="ConversorTemperaturaPadrao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08.ConversorTemperaturaPadrao" />
+      <module name="Teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.cursoalura.exercicios.orientacaoaobjetos.pagina12.*" />
+          <option name="PATTERN" value="br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,38 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContaBancaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.orientacaoaobjetos.pagina12.ContaBancaria" />
-      <module name="ExerciciosAlura" />
+    <configuration name="LivroEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08.LivroEx2" />
+      <module name="Teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.cursoalura.exercicios.orientacaoaobjetos.pagina12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IdadePessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.orientacaoaobjetos.pagina12.IdadePessoa" />
-      <module name="ExerciciosAlura" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.cursoalura.exercicios.orientacaoaobjetos.pagina12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Livro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.orientacaoaobjetos.pagina12.Livro" />
-      <module name="ExerciciosAlura" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.cursoalura.exercicios.orientacaoaobjetos.pagina12.*" />
+          <option name="PATTERN" value="br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +137,37 @@
       </method>
     </configuration>
     <configuration name="Produto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.orientacaoaobjetos.pagina12.Produto" />
-      <module name="ExerciciosAlura" />
+      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08.Produto" />
+      <module name="Teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.cursoalura.exercicios.orientacaoaobjetos.pagina12.*" />
+          <option name="PATTERN" value="br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoFisico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08.ProdutoFisico" />
+      <module name="Teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TabuadaMultiplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08.TabuadaMultiplicacao" />
+      <module name="Teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,10 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Livro" />
         <item itemvalue="Application.Produto" />
-        <item itemvalue="Application.IdadePessoa" />
-        <item itemvalue="Application.ContaBancaria" />
+        <item itemvalue="Application.ProdutoFisico" />
+        <item itemvalue="Application.LivroEx2" />
+        <item itemvalue="Application.ConversorTemperaturaPadrao" />
+        <item itemvalue="Application.TabuadaMultiplicacao" />
       </list>
     </recent_temporary>
   </component>
@@ -157,5 +201,20 @@
       <updated>1769806590946</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/ExercicioHeranca/calculos/CalculoDeTempo.java</url>
+          <line>7</line>
+          <properties class="br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.ExercicioHeranca.calculos.CalculoDeTempo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
