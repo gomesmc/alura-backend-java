@@ -6,39 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c80be4ba-3752-4c3c-87ce-74262bbee276" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nive2/orientacaoaobjetos/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nive2/orientacaoaobjetos/Calculadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nive2/orientacaoaobjetos/Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nive2/orientacaoaobjetos/Filme.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nive2/orientacaoaobjetos/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nive2/orientacaoaobjetos/Musica.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nive2/orientacaoaobjetos/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nive2/orientacaoaobjetos/pagina12/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nive2/orientacaoaobjetos/pagina12/ContaBancaria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nive2/orientacaoaobjetos/pagina12/IdadePessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nive2/orientacaoaobjetos/pagina12/Livro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nive2/orientacaoaobjetos/pagina12/Produto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/ContaBancaria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/JogoAdivinhacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina11/ConverterTemperatura.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina11/Estudos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina11/Perfil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina11/PrimeiraClasse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina11/Soma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina11/Subtracao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina13/Ex1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina13/Ex2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina13/Ex3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina13/Ex4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina13/Ex5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina13/Ex6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina14/Ex1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina14/Ex2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina14/Ex3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina14/Ex4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina14/Ex5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosAlura/br/com/cursoalura/exercicios/nivel1/primeiraaplicacao/pagina14/Ex6.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/Servico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/Servico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

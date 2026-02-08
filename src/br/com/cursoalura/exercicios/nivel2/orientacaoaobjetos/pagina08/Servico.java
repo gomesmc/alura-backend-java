@@ -2,28 +2,24 @@ package br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08;
 
 public class Servico implements Vendavel {
 
+    private double precoHora = 50.0;
+    private double desconto = 0.05;
+
     @Override
-    public void precoTotalDoProduto(int quantidadeComprada) {
-        System.out.println("Use precoTotalHoraTrabalhada(double)");
+    public void precoTotalDoProduto(int horas) {
+        double total = precoHora * horas;
+
+        if (horas >= 8) {
+            total -= total * desconto;
+        }
+
+        System.out.println("Total do serviço: R$ " + total);
     }
 
     @Override
     public double aplicaDesconto() {
-        return 0;
+        double valorDesconto = precoHora * desconto;
+        System.out.println("Desconto por hora: R$ " + valorDesconto);
+        return valorDesconto;
     }
-
-    public void precoTotalDoProduto(double precoHoraTrabalhada){
-        int totalHoraTrabalhada =8;
-        double precoTotal = precoHoraTrabalhada * totalHoraTrabalhada;
-        System.out.println("Total: " + precoTotal);
-    }
-
-    public static void main(String[] args) {
-        Servico servico = new Servico();
-        servico.precoTotalDoProduto(10);
-        servico.precoTotalDoProduto(8.0);
-    }
-
 }
-
-
