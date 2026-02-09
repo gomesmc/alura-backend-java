@@ -5,11 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80be4ba-3752-4c3c-87ce-74262bbee276" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/modelos/MinhasPreferidas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina10/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina10/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina10/enunciados.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/modelos/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/modelos/Musica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/modelos/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/modelos/Podcast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/CalculadoraSalaRetangular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/CalculadoraSalaRetangular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/Calculavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/Calculavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/CalculoGeometrico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/CalculoGeometrico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/ConversaoFinanceira.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/ConversaoFinanceira.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/ConversorMoeda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/ConversorMoeda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/ConversorTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/ConversorTemperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/ConversorTemperaturaPadrao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/ConversorTemperaturaPadrao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/LivroEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/LivroEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/ProdutoFisico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/ProdutoFisico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/Servico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/Servico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/Tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/Tabuada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/TabuadaMultiplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/TabuadaMultiplicacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/Vendavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/Vendavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina08/enunciados.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina08/enunciados.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina09/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina09/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina09/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina09/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina09/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina09/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina09/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina09/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina09/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina09/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina09/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina09/Musica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina09/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina09/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina09/enunciados.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina09/enunciados.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina10/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina10/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina10/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina10/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina10/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina10/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina10/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina10/ContaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina10/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina10/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina10/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina10/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina10/GeradorPrimo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina10/GeradorPrimo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina10/ModeloCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina10/ModeloCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina10/NumerosPrimos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina10/NumerosPrimos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina10/TesteCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina10/TesteCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina10/TesteDosNumerosPrimos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina10/TesteDosNumerosPrimos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina10/VerificadorPrimo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina10/VerificadorPrimo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina10/enunciados.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina10/enunciados.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina12/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina12/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina12/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina12/ContaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina12/IdadePessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina12/IdadePessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina12/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina12/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina12/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina12/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel2/orientacaoaobjetos/pagina12/enunciados.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/orientacaoaobjetos/pagina12/enunciados.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +128,7 @@
     "Application.TabuadaMultiplicacao.executor": "Run",
     "Application.br.com.cursoalura.exercicios.minhamusica.modelos.Audio.executor": "Run",
     "Application.br.com.cursoalura.exercicios.nive2.orientacaoaobjetos.pagina12.Aluno.executor": "Run",
+    "Application.br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina10.Principal.executor": "Run",
     "Application.br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08.Livro.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -96,8 +138,8 @@
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "terminal"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -105,7 +147,7 @@
       <recent name="C:\Users\gclar\OneDrive\Documentos\PROJETOS\ExercicioAlura\src\br\com\cursoalura\exercicios\exerciciomusica" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Principal">
+  <component name="RunManager" selected="Application.br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina10.Principal">
     <configuration name="Audio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.exerciciomusica.modelos.Audio" />
       <module name="Teste" />
@@ -145,19 +187,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Servico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08.Servico" />
-      <module name="Teste" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.cursoalura.exercicios.nivel2.orientacaoaobjetos.pagina08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="br.com.cursoalura.exercicios.minhamusica.modelos.Audio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.minhamusica.modelos.Audio" />
       <module name="Teste" />
@@ -171,13 +200,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina10.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina10.Principal" />
+      <module name="Teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina10.Principal" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.br.com.cursoalura.exercicios.minhamusica.modelos.Audio" />
         <item itemvalue="Application.Audio" />
         <item itemvalue="Application.Frete" />
-        <item itemvalue="Application.Servico" />
       </list>
     </recent_temporary>
   </component>
