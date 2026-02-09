@@ -1,0 +1,36 @@
+package br.com.cursoalura.exercicios.minhamusica.principal;
+
+import br.com.cursoalura.exercicios.minhamusica.modelos.Musica;
+import br.com.cursoalura.exercicios.minhamusica.modelos.Podcast;
+
+public class Principal {
+    public static void main(String[] args) {
+        Musica minhaMusica = new Musica();
+
+        minhaMusica.setTitulo("Forever");
+        minhaMusica.setCantor("Kiss");
+
+        for(int i=0; i < 1000;i++){ //< porque vai de 0 à 999
+            minhaMusica.reproduz();
+        }
+
+        for(int i=0; i<50; i++){
+            minhaMusica.curte();
+        }
+
+        Podcast meuPodcast = new Podcast();
+
+        meuPodcast.setTitulo("BolhaDev");
+        meuPodcast.setApresentador("Marcos Mendes");
+
+        for(int i=0; i< 5000; i++){
+            meuPodcast.reproduz();
+        }
+
+        for(int i=0; i< 1000; i++){
+            meuPodcast.curte();
+        }
+
+
+    }
+}
