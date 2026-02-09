@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80be4ba-3752-4c3c-87ce-74262bbee276" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/enunciado.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/modelos/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/modelos/Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/modelos/Podcast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/principal/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/modelos/MinhasPreferidas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/modelos/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/modelos/Musica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/modelos/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/modelos/Podcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/minhamusica/principal/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

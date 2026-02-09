@@ -1,5 +1,6 @@
 package br.com.cursoalura.exercicios.minhamusica.principal;
 
+import br.com.cursoalura.exercicios.minhamusica.modelos.MinhasPreferidas;
 import br.com.cursoalura.exercicios.minhamusica.modelos.Musica;
 import br.com.cursoalura.exercicios.minhamusica.modelos.Podcast;
 
@@ -10,7 +11,7 @@ public class Principal {
         minhaMusica.setTitulo("Forever");
         minhaMusica.setCantor("Kiss");
 
-        for(int i=0; i < 1000;i++){ //< porque vai de 0 à 999
+        for(int i=0; i < 1000;i++){
             minhaMusica.reproduz();
         }
 
@@ -31,6 +32,8 @@ public class Principal {
             meuPodcast.curte();
         }
 
-
+        MinhasPreferidas preferidas = new MinhasPreferidas();
+        preferidas.inclui(meuPodcast);
+        preferidas.inclui(minhaMusica);
     }
 }
