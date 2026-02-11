@@ -16,7 +16,7 @@ public class Principal {
         listaDePessoas.add(pessoa3);
 
         System.out.println("Total de pessoas na lista: " + listaDePessoas.size());
-        System.out.println("Primeira pessoa da lista: " + listaDePessoas.get(0));
+        System.out.println("Primeira pessoa da lista: " + listaDePessoas.get(0).getNome());
         System.out.println("Lista completa: \n" + listaDePessoas.toString());
 
     }
