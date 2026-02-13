@@ -9,7 +9,7 @@ public class Principal {
 
         Pessoa pessoa1 = new Pessoa("Carlota", 88);
         Pessoa pessoa2 = new Pessoa("Marilda", 55);
-        Pessoa pessoa3 = new Pessoa("Josildo1", 60);
+        Pessoa pessoa3 = new Pessoa("Josildo", 60);
 
         listaDePessoas.add(pessoa1);
         listaDePessoas.add(pessoa2);

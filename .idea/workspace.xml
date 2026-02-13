@@ -5,8 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80be4ba-3752-4c3c-87ce-74262bbee276" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina10/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina10/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/ContaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Forma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/ProdutoExQuatro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/ProdutoExQuatro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/ProdutoPerecivel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/ProdutoPerecivel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/Quadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/TesteArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/TesteArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/enunciados.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/enunciados.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/outrosenunciados.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina08/outrosenunciados.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina10/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina10/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina12/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina12/Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina12/LancamentoDeCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina12/LancamentoDeCompras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina12/NumerosInteiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina12/NumerosInteiros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina12/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina12/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina12/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina12/Titulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina12/desafio.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina12/desafio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina12/enunciados.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cursoalura/exercicios/nivel1/listasecolecoes/pagina12/enunciados.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +75,12 @@
     "Application.Calculadora.executor": "Run",
     "Application.CalculadoraSalaRetangular.executor": "Run",
     "Application.Carro.executor": "Run",
+    "Application.Circulo.executor": "Run",
     "Application.ContaBancaria.executor": "Run",
     "Application.ConversorMoeda.executor": "Run",
     "Application.ConversorTemperaturaPadrao.executor": "Run",
     "Application.ConverterTemperatura.executor": "Run",
+    "Application.Curso.executor": "Run",
     "Application.Estudos.executor": "Run",
     "Application.Ex1.executor": "Run",
     "Application.Ex2.executor": "Run",
@@ -68,20 +91,28 @@
     "Application.Frete.executor": "Run",
     "Application.IdadePessoa.executor": "Run",
     "Application.JogoAdivinhacao.executor": "Run",
+    "Application.LancamentoDeCompras.executor": "Run",
     "Application.Livro.executor": "Run",
     "Application.LivroEx2.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Musica.executor": "Run",
+    "Application.NumerosInteiros.executor": "Run",
     "Application.Perfil.executor": "Run",
     "Application.Pessoa.executor": "Run",
     "Application.PrimeiraClasse.executor": "Run",
     "Application.Principal.executor": "Run",
     "Application.Produto.executor": "Run",
+    "Application.ProdutoExQuatro.executor": "Run",
     "Application.ProdutoFisico.executor": "Run",
+    "Application.ProdutoPerecivel.executor": "Run",
+    "Application.Quadrado.executor": "Run",
     "Application.Servico.executor": "Run",
     "Application.Soma.executor": "Run",
     "Application.Subtracao.executor": "Run",
     "Application.TabuadaMultiplicacao.executor": "Run",
+    "Application.TesteAnimalCachorro.executor": "Run",
+    "Application.TesteArea.executor": "Run",
+    "Application.Titulo.executor": "Run",
     "Application.br.com.cursoalura.exercicios.minhamusica.modelos.Audio.executor": "Run",
     "Application.br.com.cursoalura.exercicios.nive2.orientacaoaobjetos.pagina12.Aluno.executor": "Run",
     "Application.br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina10.Principal.executor": "Run",
@@ -103,13 +134,13 @@
       <recent name="C:\Users\gclar\OneDrive\Documentos\PROJETOS\ExercicioAlura\src\br\com\cursoalura\exercicios\exerciciomusica" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina10.Principal">
-    <configuration name="Audio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.exerciciomusica.modelos.Audio" />
+  <component name="RunManager" selected="Application.LancamentoDeCompras">
+    <configuration name="Curso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina12.Curso" />
       <module name="Teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.cursoalura.exercicios.exerciciomusica.modelos.*" />
+          <option name="PATTERN" value="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Frete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.sobrecargametodo.Frete" />
+    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina12.Ex4" />
       <module name="Teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.cursoalura.exercicios.sobrecargametodo.*" />
+          <option name="PATTERN" value="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.minhamusica.principal.Principal" />
+    <configuration name="LancamentoDeCompras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina12.LancamentoDeCompras" />
       <module name="Teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.cursoalura.exercicios.minhamusica.principal.*" />
+          <option name="PATTERN" value="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="br.com.cursoalura.exercicios.minhamusica.modelos.Audio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.minhamusica.modelos.Audio" />
+    <configuration name="NumerosInteiros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina12.NumerosInteiros" />
       <module name="Teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.cursoalura.exercicios.minhamusica.modelos.*" />
+          <option name="PATTERN" value="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina10.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina10.Principal" />
+    <configuration name="Titulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina12.Titulo" />
       <module name="Teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina10.*" />
+          <option name="PATTERN" value="br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.br.com.cursoalura.exercicios.nivel1.listasecolecoes.pagina10.Principal" />
-        <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.br.com.cursoalura.exercicios.minhamusica.modelos.Audio" />
-        <item itemvalue="Application.Audio" />
-        <item itemvalue="Application.Frete" />
+        <item itemvalue="Application.LancamentoDeCompras" />
+        <item itemvalue="Application.Curso" />
+        <item itemvalue="Application.Ex4" />
+        <item itemvalue="Application.Titulo" />
+        <item itemvalue="Application.NumerosInteiros" />
       </list>
     </recent_temporary>
   </component>
